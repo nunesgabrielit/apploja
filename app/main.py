@@ -41,6 +41,15 @@ def create_application() -> FastAPI:
     register_exception_handlers(app)
     app.include_router(api_router, prefix=settings.api_v1_prefix)
 
+    @app.get("/", tags=["root"], summary="Root endpoint")
+    async def root() -> dict[str, str]:
+        return {
+            "message": "WM Distribuidora API online.",
+            "docs": "/docs",
+            "health": f"{settings.api_v1_prefix}/health",
+            "api_base": settings.api_v1_prefix,
+        }
+
     return app
 
 
