@@ -1,0 +1,612 @@
+--- PAGE 1 ---
+
+
+--- PAGE 2 ---
+FO001 Fone sem fio 
+Redmi 
+________________
+ATACADO R$ 28,00
+FO002 Fone sem fio 
+Redmi Airdotspro2
+_________________
+ATACADO R$ 28,00
+FO003
+ Fone sem fio 
+TWS 
+–
+ I12
+_________________
+ATACADO R$ 28,00
+FO004 Fone Bluetooth 
+LEHMOX LEF-E6S 
+________________
+ATACADO R$ 37,00
+FO005 Fone Bluetooth 
+LEHMOX LEF-E75
+________________
+ATACADO R$ 37,00
+FO006 Fone Bluetooth 
+LEHMOX LEF-Y90
+________________
+ATACADO R$ 40,00
+
+
+--- PAGE 3 ---
+FO007 Fone Bluetooth 5.3 
+LEHMOX LEF-365A
+________________
+ATACADO R$ 50,00
+FO008 Fone Bluetooth 
+LEHMOX LEF-AP10
+_________________
+ATACADO R$ 37,00
+FO009 Fone Bluetooth 
+STARMEGA 160B
+_________________
+ATACADO R$ 34,00
+FO010 Fone Bluetooth 
+LEHMOX AP6 
+________________
+ATACADO R$ 33,00
+FO011 Fone Bluetooth 5.3 
+LEHMOX AP08
+________________
+ATACADO R$ 33,00
+FO012 Fone Bluetooth 
+ULTRAPODS
+________________
+ATACADO R$ 33,00
+
+
+--- PAGE 4 ---
+FO013 Fone Bluetooth 
+GAMER M25
+________________
+ATACADO R$ 37,00
+FO014 Fone de ouvido 
+Lightning LEHMOX 
+LEY-1536
+_________________
+ATACADO R$ 20,00
+FO015 Fone de ouvido 
+Tipo C FN75L
+_________________
+ATACADO R$ 20,00
+FO016 Fone de ouvido
+KA6118
+________________
+ATACADO R$ 10,00
+FO017 Fone de ouvido
+AFN06
+________________
+ATACADO R$ 10,00
+FO018 Fone de ouvido
+KA-5312
+________________
+ATACADO R$ 10,00
+
+
+--- PAGE 5 ---
+FO019 Fone Bluetooth
+JBL 760
+________________
+ATACADO R$ 50,00
+FO020 Fone Bluetooth 
+JBL 950
+_________________
+ATACADO R$ 50,00
+FO021 Fone Bluetooth 
+BT510
+_________________
+ATACADO R$ 50,00
+FO022 Fone Bluetooth 
+LEHMOX LEF-137 
+________________
+ATACADO R$ 50,00
+FO023 Fone Bluetooth
+LEHMOX LEF-1029A
+________________
+ATACADO R$ 55,00
+FO024 Headset Gamer 
+LEHMOX LEF-1040
+________________
+ATACADO R$ 50,00
+
+
+--- PAGE 6 ---
+FO025 Headset Gamer 
+LEHMOX LEY-2253
+________________
+ATACADO R$ 125,00
+FO026 Headset Gamer 
+C/FIO LEHMOX LEF-
+1212
+_________________
+ATACADO R$ 65,00
+FO027 Fone de ouvido
+LEHMOX LEF-1024
+_________________
+ATACADO R$ 45,00
+FO028 Fone Bluetooth 
+Homem Aranha 
+________________
+ATACADO R$ 65,00
+FO029 Fone Bluetooth 
+BARBIE
+________________
+ATACADO R$ 65,00
+FO030 Fone Bluetooth
+Infantil KA9872
+________________
+ATACADO R$ 45,00
+
+
+--- PAGE 7 ---
+CS001 Caixa de Som 
+JBL GO4 PRO
+________________
+ATACADO R$ 60,00
+CS002 Caixa de Som 
+Mini JBL
+_________________
+ATACADO R$ 45,00
+CS003 Caixa de Som
+Alexe JBL
+_________________
+ATACADO R$ 60,00
+CS004 Caixa de Som
+KA-8437
+________________
+ATACADO R$ 220,00
+CS005 Caixa de Som
+KA-8676
+________________
+ATACADO R$ 145,00
+CS006 Caixa de Som
+KA-8458
+________________
+ATACADO R$ 70,00
+
+
+--- PAGE 8 ---
+CS007 Caixa de Som 
+Bluetooth Portátil  
+KA-8778 
+________________
+ATACADO R$ 75,00
+CS008 Caixa de Som 
+Bluetooth KA-8802
+_________________
+ATACADO R$ 52,00
+CS009 Caixa de Som 
+Bluetooth KA-8021
+_________________
+ATACADO R$ 38,00
+CS010 Caixa de Som 
+Bluetooth MD-12271
+________________
+ATACADO R$ 125,00
+CS011 Caixa de Som 
+Bluetooth WSX138
+________________
+ATACADO R$ 40,00
+CS012 Caixa de Som 
+Bluetooth Suporte Celular
+KA-9112
+________________
+ATACADO R$ 38,00
+
+
+--- PAGE 9 ---
+CA001 Carregador
+XIAOMI 33W Tipo C
+________________
+ATACADO R$ 25,00
+CA002 Carregador 
+XIAOMI 120W Tipo C
+_________________
+ATACADO R$ 32,00
+CA003 Fonte IPHONE
+Usb-C/A 67W
+_________________
+ATACADO R$ 30,00
+CA004 Kit APPLE
+AIRPODS
+________________
+ATACADO R$ 85,00
+CA005 Carregador 
+IPHONE 67W Usb-C/A
+________________
+ATACADO R$ 35,00
+CA006 Fonte IPHONE 
+Turbo 20W USB-C ORIG
+________________
+ATACADO R$ 45,00
+
+
+--- PAGE 10 ---
+CA007 Carregador
+MOTOROLA 16X Turbo 
+Tipo C
+________________
+ATACADO R$ 32,00
+CA008 Carregador 
+MOTOROLA 8X
+Turbo Tipo C
+_________________
+ATACADO R$ 25,00
+CA009 Carregador 
+Samsung 45W Tipo C
+_________________
+ATACADO R$ 30,00
+CA010 Carregador 
+407 micro 33W Turbo 
+Power V8
+________________
+ATACADO R$ 24,00
+CA011 Carregador 
+407A+IOS 45W
+Turbo PD+USB
+________________
+ATACADO R$ 30,00
+CA012 Carregador A’GOLD 
+CA42-5 Turbo Tipo C
+________________
+ATACADO R$ 35,00
+
+
+--- PAGE 11 ---
+CA013 Carregador V8 
+A’GOLD Carga Rápida 4.1 
+________________
+ATACADO R$ 22,00
+CA014 Carregador 
+IPHONE A’GOLD
+Carga Rápida 4.1
+_________________
+ATACADO R$ 22,00
+CA015 Carregador 
+A’GOLD Tipo C
+Carga Rápida 4.1
+_________________
+ATACADO R$ 22,00
+CA016 Fonte LE 519-1
+USB 3.1A
+________________
+ATACADO R$ 17,00
+CA017 Fonte LE 519
+USB 3.1A
+________________
+ATACADO R$ 17,00
+CA018 CARREGADOR 
+LEHMOX 
+LE 156 A+C
+________________
+ATACADO R$ 28,00
+
+
+--- PAGE 12 ---
+CA019 Fonte IPHONE com 
+Cabo Lightning LE-512
+________________
+ATACADO R$ 20,00
+CA020 Carregador Veicular 
+Tipo C 60w CJ 123
+_________________
+ATACADO R$ 35,00
+CA021 Carregador 
+Veicular USB + Tipo C PD
+LE-355
+_________________
+ATACADO R$ 26,00
+CA022 Carregador Veicular 
+UBS + Cabo LS044
+________________
+ATACADO R$ 20,00
+CA023 Carregador Portátil 
+Slim 10000mAh KA-951
+________________
+ATACADO R$ 55,00
+CA024 Carregador Portátil 
+Slim 5000mAh KA-952
+________________
+ATACADO R$ 50,00
+
+
+--- PAGE 13 ---
+CA025 Carregador Portátil  
+4 em 1 KA-974
+________________
+ATACADO R$ 125,00
+CA026 Carregador Portátil
+10000 mAh 10w KA-966B
+_________________
+ATACADO R$ 55,00
+CA027 Carregador Portátil 
+3 Cabos 22.5w KA-9557
+_________________
+ATACADO R$ 65,00
+CR001 Câmera de 
+Segurança G45
+________________
+ATACADO R$ 95,00
+CR002 Câmera de 
+Segurança 
+A6 com visão noturna
+________________
+ATACADO R$ 120,00
+CR003 Câmera de Segurança
+ST-116
+________________
+ATACADO R$ 160,00
+
+
+--- PAGE 14 ---
+CR004 Câmera de Segurança
+KAS-095
+________________
+ATACADO R$ 180,00
+CR005 Câmera de 
+Segurança
+D72 Painel Solar
+_________________
+ATACADO R$ 370,00
+CR006 Câmera de 
+Segurança
+Smart Wifi AL-S381
+_________________
+ATACADO R$ 115,00
+OT001 Rádio Comunicador
+777S
+________________
+ATACADO R$ 125,00
+OT002 Projetor YH300
+_________________
+ATACADO R$ 200,00
+CR007 Câmera de 
+Segurança ALS389
+_________________
+ATACADO R$ 120,00
+
+
+--- PAGE 15 ---
+MS001 Mouse Bluetooth 
+AG690
+________________
+ATACADO R$ 40,00
+MS002 Mouse com Fio
+LEY-1504
+________________
+ATACADO R$ 20,00
+MS003 Mouse sem Fio
+LEY-180
+________________
+ATACADO R$ 33,00
+MS004 Mouse sem Fio
+KA602D
+________________
+ATACADO R$ 25,00
+MS005 Mouse sem Fio
+KA611E
+________________
+ATACADO R$ 33,00
+TC001 Teclado LEY 1605
+________________
+ATACADO R$ 35,00
+
+
+--- PAGE 16 ---
+TC002 Kit Teclado com 
+Mouse LEY 214
+________________
+ATACADO R$ 55,00
+CU001 Controle Universal
+_________________
+ATACADO R$ 20,00
+RW001 Repetidor de 
+sinal Wifi
+_________________
+ATACADO R$ 50,00
+AD001 Antena Digital 3m
+LEY-55
+________________
+ATACADO R$ 25,00
+SC001 Suporte para 
+Celular
+Moto e Bicicleta
+________________
+ATACADO R$ 35,00
+SC002 Suporte para Celular
+c/ carregado LEY2259
+________________
+ATACADO R$ 30,00
+
+
+--- PAGE 17 ---
+PU001 Placa Uber
+________________
+ATACADO R$ 16,00
+PU002 Placa 99
+_________________
+ATACADO R$ 16,00
+SC003 Suporte de 
+Celular Magnético 
+KC088
+_________________
+ATACADO R$ 22,00
+SC004 Suporte para 
+Celular LEY-1646
+________________
+ATACADO R$ 22,00
+LR001 Lavadora 
+Recarregável
+Alta Pressão H821
+________________
+ATACADO R$ 210,00
+MC001 Mini Compressor
+________________
+ATACADO R$ 100,00
+
+
+--- PAGE 18 ---
+CG001 Controle PC
+________________
+ATACADO R$ 32,00
+CG002 Controle PS4 sem 
+fio
+_________________
+ATACADO R$ 70,00
+CG003 Controle XBOX 
+360
+& PC Sem fio
+_________________
+ATACADO R$ 102,00
+MF001 Microfone Lapela
+Conexão IOS
+________________
+ATACADO R$ 40,00
+MF002 Microfone com fio
+Para Karaoke
+________________
+ATACADO R$ 33,00
+CG004 Controle PS3 sem Fio
+________________
+ATACADO R$ 45,00
+
+
+--- PAGE 19 ---
+CM001 Cartão de Memoria
+16GB
+________________
+ATACADO R$ 37,00
+CM002 Cartão de Memória
+32GB
+_________________
+ATACADO R$ 45,00
+CM003 Cartão de 
+Memória
+64GB
+_________________
+ATACADO R$ 60,00
+PD001 Pen Drive
+16GB
+________________
+ATACADO R$ 35,00
+CB001 Cabo USB V8
+1M LEY-1984
+________________
+ATACADO R$ 12,00
+CB002 Cabo USB 1M
+LE-382
+________________
+ATACADO R$ 12,00
+
+
+--- PAGE 20 ---
+CB003 Cabo Tipo C 5.1 A
+LE2211   1M
+________________
+ATACADO R$ 12,00
+CB004 Cabo Tipo C – C
+LE478  1M
+_________________
+ATACADO R$ 12,00
+CB005 Cabo IOS TIPO-C 
+PD LE479  1M
+_________________
+ATACADO R$ 15,00
+CB006 Cabo Carregador 3 
+em 1 Turbo 100w 
+________________
+ATACADO R$ 18,00
+CB007 Cabo USB V8 2M
+LEY 1987
+________________
+ATACADO R$ 10,00
+CB008 Cabo IPHONE 2M
+LEY-1989
+________________
+ATACADO R$ 10,00
+
+
+--- PAGE 21 ---
+CB009 Cabo IPHONE 60W
+TIPO C-C
+________________
+ATACADO R$ 18,00
+CB010 Cabo 6g
+H108
+_________________
+ATACADO R$ 10,00
+CB011 Cabo OTG 
+USB Tipo C
+_________________
+ATACADO R$ 10,00
+CB012 Cabo USB Tipo C 
+(2M) LE 2027
+________________
+ATACADO R$ 12,00
+CB013 Cabo USB V8 (2M)
+H139-1
+________________
+ATACADO R$ 10,00
+CB014 Cabo Tipo C 1M
+LE-2129
+________________
+ATACADO R$ 12,00
+
+
+--- PAGE 22 ---
+CB015 Cabo 60W Tipo C-C
+SJX38 (2M) Turbo
+________________
+ATACADO R$ 24,00
+CB016 Cabo 27W PD
+SJX39 (2M)
+_________________
+ATACADO R$ 24,00
+CB017 Cabo IPHONE 15 
+60W USB C
+_________________
+ATACADO R$ 23,00
+CB018 Cabo IPHONE 12 
+ORIGINAL
+________________
+ATACADO R$ 33,00
+CB019 Cabo 3 em 1
+ALC360
+________________
+ATACADO R$ 20,00
+CB020 Cabo carregador 4 em 1
+CBO-12785
+________________
+ATACADO R$ 20,00
+
+
+--- PAGE 23 ---
+CP001 Copo Stanley
+________________
+ATACADO R$ 26,00
+CP002 Garrafa Stanley
+600 ML
+_________________
+ATACADO R$ 45,00
+CP003 Garrafa Stanley
+800 ML
+_________________
+ATACADO R$ 42,00
+CP004 Garrafa Stanley
+1200 ML
+________________
+ATACADO R$ 50,00
+CP005 Garrafa Coffe
+550 ML
+________________
+ATACADO R$ 42,00
+CP006 Garrafa 650 ML
+________________
+ATACADO R$ 50,00
+
+
+--- PAGE 24 ---
+

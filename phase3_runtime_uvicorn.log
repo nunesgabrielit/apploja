@@ -1,0 +1,13 @@
+2026-04-11 16:23:26,921 | INFO | uvicorn.error | Started server process [19360]
+2026-04-11 16:23:26,922 | INFO | uvicorn.error | Waiting for application startup.
+2026-04-11 16:23:26,922 | INFO | app.main | Starting WM Distribuidora API in development mode
+2026-04-11 16:23:26,922 | INFO | uvicorn.error | Application startup complete.
+2026-04-11 16:23:26,923 | INFO | uvicorn.error | Uvicorn running on http://127.0.0.1:8011 (Press CTRL+C to quit)
+2026-04-11 16:23:28,239 | INFO | uvicorn.access | 127.0.0.1:54851 - "GET /api/v1/health HTTP/1.1" 200
+2026-04-11 16:23:29,276 | INFO | app.services.auth_service | New customer registered: cart-df9f6a7c@example.com
+2026-04-11 16:23:29,277 | INFO | uvicorn.access | 127.0.0.1:54852 - "POST /api/v1/auth/register HTTP/1.1" 201
+2026-04-11 16:23:29,598 | INFO | uvicorn.access | 127.0.0.1:54852 - "POST /api/v1/auth/login HTTP/1.1" 200
+2026-04-11 16:23:29,649 | INFO | uvicorn.access | 127.0.0.1:54852 - "GET /api/v1/cart HTTP/1.1" 200
+2026-04-11 16:23:29,704 | INFO | uvicorn.access | 127.0.0.1:54852 - "POST /api/v1/cart/items HTTP/1.1" 200
+2026-04-11 16:23:29,762 | INFO | uvicorn.access | 127.0.0.1:54852 - "PUT /api/v1/cart/items/4d54faac-2105-4e25-b975-7664b72f3a27 HTTP/1.1" 200
+2026-04-11 16:23:29,798 | INFO | uvicorn.access | 127.0.0.1:54852 - "DELETE /api/v1/cart/items/4d54faac-2105-4e25-b975-7664b72f3a27 HTTP/1.1" 200

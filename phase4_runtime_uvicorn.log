@@ -1,0 +1,13 @@
+2026-04-11 16:44:57,049 | INFO | uvicorn.error | Started server process [12504]
+2026-04-11 16:44:57,050 | INFO | uvicorn.error | Waiting for application startup.
+2026-04-11 16:44:57,050 | INFO | app.main | Starting WM Distribuidora API in development mode
+2026-04-11 16:44:57,050 | INFO | uvicorn.error | Application startup complete.
+2026-04-11 16:44:57,057 | INFO | uvicorn.error | Uvicorn running on http://127.0.0.1:8012 (Press CTRL+C to quit)
+2026-04-11 16:44:58,357 | INFO | uvicorn.access | 127.0.0.1:55154 - "GET /api/v1/health HTTP/1.1" 200
+2026-04-11 16:44:59,538 | INFO | uvicorn.access | 127.0.0.1:55155 - "POST /api/v1/auth/login HTTP/1.1" 200
+2026-04-11 16:44:59,575 | INFO | app.audit | admin_audit {"action": "shipping_rule_created", "actor_email": "admin-8c9263ad@example.com", "actor_id": "dba10c5a-b3c7-473c-87f7-6bfabc5aa7bb", "actor_role": "admin", "details": {"rule_name": "Centro Rio Branco", "zip_code_end": "69900999", "zip_code_start": "69900000"}, "entity": "shipping_rule", "entity_id": "17f360d6-dfbb-478f-b99a-bd1bedc070df"}
+2026-04-11 16:44:59,576 | INFO | uvicorn.access | 127.0.0.1:55155 - "POST /api/v1/admin/shipping-rules HTTP/1.1" 201
+2026-04-11 16:44:59,589 | INFO | uvicorn.access | 127.0.0.1:55155 - "POST /api/v1/shipping/calculate HTTP/1.1" 200
+2026-04-11 16:44:59,597 | INFO | uvicorn.access | 127.0.0.1:55155 - "POST /api/v1/shipping/calculate HTTP/1.1" 200
+2026-04-11 16:44:59,619 | INFO | app.audit | admin_audit {"action": "shipping_rule_deleted", "actor_email": "admin-8c9263ad@example.com", "actor_id": "dba10c5a-b3c7-473c-87f7-6bfabc5aa7bb", "actor_role": "admin", "details": {"is_active": false}, "entity": "shipping_rule", "entity_id": "17f360d6-dfbb-478f-b99a-bd1bedc070df"}
+2026-04-11 16:44:59,620 | INFO | uvicorn.access | 127.0.0.1:55155 - "DELETE /api/v1/admin/shipping-rules/17f360d6-dfbb-478f-b99a-bd1bedc070df HTTP/1.1" 200
