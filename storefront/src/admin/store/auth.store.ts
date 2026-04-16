@@ -14,7 +14,7 @@ interface AuthState {
   isHydrated: boolean;
   error: string | null;
   setHydrated: (value: boolean) => void;
-  loginWithPassword: (email: string, password: string) => Promise<void>;
+  loginWithPassword: (email: string, password: string) => Promise<User>;
   fetchCurrentUser: () => Promise<void>;
   logout: () => void;
   clearError: () => void;
@@ -42,6 +42,7 @@ export const useAuthStore = create<AuthState>()(
           const response = await login(email, password);
           setToken(response.access_token);
           set({ user: response.user, isLoading: false });
+          return response.user;
         } catch (error) {
           set({ isLoading: false, error: parseError(error) });
           throw error;

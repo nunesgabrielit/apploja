@@ -21,7 +21,11 @@ class Settings(BaseSettings):
     debug: bool = False
     log_level: str = "INFO"
     cors_origins: Annotated[list[str], NoDecode] = Field(
-        default_factory=lambda: ["http://localhost:3000", "http://localhost:8000"]
+        default_factory=lambda: [
+            "http://localhost:3001",
+            "http://localhost:3005",
+            "http://localhost:8000",
+        ]
     )
 
     db_host: str = "localhost"

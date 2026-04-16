@@ -73,18 +73,7 @@ class ShippingService:
         normalized_zip_code = self._normalize_zip_code(payload.zip_code)
         rule = await self.shipping_repository.find_matching_active_rule(normalized_zip_code)
         if rule is None:
-            # Default fallback rule for development/missing zip codes
-            return ShippingCalculateResponse(
-                zip_code=payload.zip_code,
-                zip_code_normalized=normalized_zip_code,
-                fulfillment_type=payload.fulfillment_type,
-                shipping_price=Decimal("15.00"),
-                estimated_time_text="3 a 5 dias úteis",
-                rule_name="Frete Padrão (Brasil)",
-                covered=True,
-                calculation_mode="zip_code",
-                distance_km=None,
-            )
+            raise NotFoundError("No active shipping rule covers the provided ZIP code")
 
         return ShippingCalculateResponse(
             zip_code=payload.zip_code,
@@ -267,7 +256,10 @@ class ShippingService:
             actor=actor,
             entity="shipping_distance_rule",
             entity_id=rule.id,
-            details={"max_distance_km": str(rule.max_distance_km), "shipping_price": str(rule.shipping_price)},
+            details={
+                "max_distance_km": str(rule.max_distance_km),
+                "shipping_price": str(rule.shipping_price),
+            },
         )
         return rule
 
@@ -302,7 +294,10 @@ class ShippingService:
             actor=actor,
             entity="shipping_distance_rule",
             entity_id=rule.id,
-            details={"max_distance_km": str(rule.max_distance_km), "shipping_price": str(rule.shipping_price)},
+            details={
+                "max_distance_km": str(rule.max_distance_km),
+                "shipping_price": str(rule.shipping_price),
+            },
         )
         return rule
 

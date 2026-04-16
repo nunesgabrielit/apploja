@@ -1,4 +1,8 @@
 .env
+.env.local
+.env.*.local
+.env.production
+.env.development
 .venv/
 __pycache__/
 .pytest_cache/
@@ -12,3 +16,5 @@ build/
 _runtime_pg*/
 node_modules/
 .next/
+storefront/.env.local
+admin/.env.local

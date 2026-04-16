@@ -1,0 +1,15 @@
+2026-04-15 23:21:23,317 | INFO | uvicorn.error | Started server process [21960]
+2026-04-15 23:21:23,318 | INFO | uvicorn.error | Waiting for application startup.
+2026-04-15 23:21:23,320 | INFO | app.main | Starting WM Distribuidora API in development mode
+2026-04-15 23:21:23,322 | INFO | uvicorn.error | Application startup complete.
+2026-04-15 23:21:23,324 | INFO | uvicorn.error | Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2026-04-15 23:21:27,851 | INFO | uvicorn.access | 127.0.0.1:58752 - "GET /api/v1/health HTTP/1.1" 200
+2026-04-15 23:21:41,629 | INFO | uvicorn.access | 127.0.0.1:58754 - "GET /api/v1/health HTTP/1.1" 200
+2026-04-15 23:24:01,148 | INFO | uvicorn.access | 127.0.0.1:58790 - "GET /api/v1/products?page=1&page_size=12 HTTP/1.1" 200
+2026-04-15 23:24:20,336 | INFO | uvicorn.access | 127.0.0.1:58797 - "GET /api/v1/products?page=1&page_size=3 HTTP/1.1" 200
+2026-04-15 23:24:28,463 | INFO | uvicorn.access | 127.0.0.1:58792 - "GET /api/v1/products?page=1&page_size=12 HTTP/1.1" 200
+2026-04-15 23:24:40,869 | INFO | uvicorn.access | 127.0.0.1:58810 - "GET /api/v1/products/d4d769dc-40ce-42ca-8153-39d6f0898e84 HTTP/1.1" 200
+2026-04-15 23:24:40,902 | INFO | uvicorn.access | 127.0.0.1:58810 - "GET /api/v1/product-items/acfbc931-1660-4f8a-8f06-9cf76ef43e24 HTTP/1.1" 200
+2026-04-15 23:24:56,742 | INFO | uvicorn.access | 127.0.0.1:58811 - "GET /api/v1/products/d4d769dc-40ce-42ca-8153-39d6f0898e84 HTTP/1.1" 200
+2026-04-15 23:24:56,880 | INFO | uvicorn.access | 127.0.0.1:58811 - "GET /api/v1/product-items/acfbc931-1660-4f8a-8f06-9cf76ef43e24 HTTP/1.1" 200
+2026-04-15 23:24:58,165 | INFO | uvicorn.access | 127.0.0.1:58811 - "GET /api/v1/products?page=1&page_size=12 HTTP/1.1" 200
