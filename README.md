@@ -521,4 +521,5 @@ Os endpoints administrativos usam a politica ja existente de `employee` ou `admi
 - observabilidade e monitoramento
 - CI/CD e ambientes separados
 #   a p p l o j a  
+ #   a p p l o j a  
  
