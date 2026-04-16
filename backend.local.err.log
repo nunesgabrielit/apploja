@@ -13,3 +13,4 @@
 2026-04-15 23:24:56,742 | INFO | uvicorn.access | 127.0.0.1:58811 - "GET /api/v1/products/d4d769dc-40ce-42ca-8153-39d6f0898e84 HTTP/1.1" 200
 2026-04-15 23:24:56,880 | INFO | uvicorn.access | 127.0.0.1:58811 - "GET /api/v1/product-items/acfbc931-1660-4f8a-8f06-9cf76ef43e24 HTTP/1.1" 200
 2026-04-15 23:24:58,165 | INFO | uvicorn.access | 127.0.0.1:58811 - "GET /api/v1/products?page=1&page_size=12 HTTP/1.1" 200
+2026-04-15 23:30:47,679 | INFO | uvicorn.access | 127.0.0.1:58893 - "GET /api/v1/products?page=1&page_size=12 HTTP/1.1" 200
